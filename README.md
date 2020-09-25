@@ -1,4 +1,4 @@
 # mylibrary
 
-[![Release](https://jitpack.io/v/User/Repo.svg)]
+[![RC1](https://jitpack.io/v/User/Repo.svg)]
 (https://jitpack.io/#User/Repo)
